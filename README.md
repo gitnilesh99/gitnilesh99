@@ -8,3 +8,26 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnilesh99&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Java"],
+    askMeAbout: ["cloud computing","DevOps", "tech trends"],
+    technologies: {
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+
+};
+```
