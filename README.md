@@ -1,5 +1,5 @@
 # 💫 About Me:
-नमस्ते (Namaste), I'm Nileshkumar<br><br><img align="right" height="500" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+नमस्ते (Namaste), I'm Nileshkumar<br><br><img align="right" height="500" width="600" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 🚀 Aspiring **DevOps Engineer** with a strong passion for automation, cloud infrastructure, and system reliability. Currently diving deep into **Linux**, **AWS**, and **DevOps best practices** to become production-ready and land a role in a top tech company.<br>---<br><br># 🛠️ Skills & Tools<br><br>- ⚙️ **DevOps Tools:** Git, Docker, Jenkins, Ansible, Terraform  <br>- ☁️ **Cloud Platforms:** AWS[ "EC2", "S3", "Lambda", "CloudWatch", "RDS"]  <br>- 🐧 **Operating Systems:** Ubuntu 24.04 LTS (Primary)  <br>- 🖥️ **Languages & Scripting:** Bash, Python (Basics), YAML  <br>- 📈 **Monitoring:** Prometheus, Grafana (Learning)  <br>- 💾 **Version Control:** Git, GitHub<br> 
 - ✏️ **Architecture:** 
