@@ -3,7 +3,7 @@
 
 🚀 Aspiring **DevOps Engineer** with a strong passion for automation, cloud infrastructure, and system reliability. Currently diving deep into **Linux**, **AWS**, and **DevOps best practices** to become production-ready and land a role in a top tech company.<br>---<br><br># 🛠️ Skills & Tools<br><br>- ⚙️ **DevOps Tools:** Git, Docker, Jenkins, Ansible, Terraform  <br>- ☁️ **Cloud Platforms:** AWS[ "EC2", "S3", "Lambda", "CloudWatch", "RDS"]  <br>- 🐧 **Operating Systems:** Ubuntu 24.04 LTS (Primary)  <br>- 🖥️ **Languages & Scripting:** Bash, Python (Basics), YAML  <br>- 📈 **Monitoring:** Prometheus, Grafana (Learning)  <br>- 💾 **Version Control:** Git, GitHub<br> 
 - **Architecture:** 
-  - **backEnd:** ["microservices", "monolithic", "serverless"]
+  - ✏️**backEnd:** ["microservices", "monolithic", "serverless"]
   - **devOps:** ["CloudFormation", "Serverless Framework"]
   - **databases:** ["Relational", "NoSQL", "In-memory"]<br>
 
