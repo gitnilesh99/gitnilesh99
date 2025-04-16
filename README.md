@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me :
-<img align="right" height="300" width="300" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="300" width="350" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🧑‍💻 I’m an **Aspiring DevOps Engineer** actively building skills in **Cloud Infrastructure**, **IaC**, **CI/CD**, and **System Monitoring**.  
 - 🐧 Linux is my playground—currently working on mastering **Ubuntu 24.04 LTS**.
