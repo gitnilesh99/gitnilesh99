@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Nileshkumar</h1>
 
-<p align="center">
-🚀 DevOps & Cloud Enthusiast | Automation Lover | AWS Explorer | Open to Opportunities 🌍  
-</p>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/jaiswarnilesh" target="_blank">
@@ -27,6 +25,9 @@
 - 💬 Let’s talk about **infra automation**, **containers**, and **self-hosted setups**!
 
 ---
+<p align="center">
+🚀 DevOps & Cloud Enthusiast | Automation Lover | AWS Explorer | Open to Opportunities 🌍  
+</p>
 
 ### ⚙️ Tech & Tools I Work With
 
