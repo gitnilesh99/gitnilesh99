@@ -50,7 +50,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
-### 📊 Logging & Visualization
+### 📜 Logging & Visualization
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/-Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
