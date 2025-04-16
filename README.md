@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<br>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br><img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br> ## 🛠️ Skills & Tools</br>
+<img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br> ## 🛠️ Skills & Tools</br>
 
 - ⚙️ **DevOps Tools:** Git, Docker, Jenkins, Ansible, Terraform  
 - ☁️ **Cloud Platforms:** AWS (EC2, S3, Lambda, CloudWatch, RDS)  
