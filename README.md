@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br>---
+<img align="right" height="350" width="350" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br>
+
+---
 
 ### 🧠 About Me
 
