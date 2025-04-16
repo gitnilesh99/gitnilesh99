@@ -1,5 +1,9 @@
-# 💫 About Me:
-नमस्ते (Namaste), I'm Nileshkumar<br><br> <p align="left">
+<h1 align="center">Hey there! 👋 I'm Nileshkumar</h1>
+
+<p align="center">
+🚀 DevOps & Cloud Enthusiast | Automation Lover | AWS Explorer | Open to Opportunities 🌍  
+</p>
+<br> <p align="left">
 🚀 Aspiring **DevOps Engineer** with a strong passion for automation, cloud infrastructure, and system reliability. Currently diving deep into **Linux**, **AWS**, and **DevOps best practices** to become production-ready and land a role in a top tech company.<br>
 
 ---
