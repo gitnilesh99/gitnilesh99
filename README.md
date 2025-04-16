@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Nileshkumar</h1>
 <p align="center">
-<a href="https://linkedin.com/in/jaiswarnilesh" target="_blank">
+<a href="https://www.linkedin.com/in/contact-nilesh-jaiswar/" target="_blank">
   <img src="https://img.shields.io/badge/-Let's Connect on LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:nilesh@example.com" target="_blank">
+<a href="mailto:nieljaiswar0@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
